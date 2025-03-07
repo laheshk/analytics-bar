@@ -1,2 +1,2 @@
 # analytics-bar
-Repository created by Bolt to GitHub extension
+An analytics bar component with snappy interactions to see a detailed breakdown.
